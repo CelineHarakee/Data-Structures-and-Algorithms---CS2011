@@ -1,4 +1,4 @@
-//  The purpose of this program is to demonstrate the use of a stack in handling text files.
+//  The purpose of this program is to demonstrate the use of a stack in handling and reversing text files.
 
 import java.io.FileNotFoundException;
 import java.util.*;
