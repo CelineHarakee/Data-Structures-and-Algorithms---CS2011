@@ -1,3 +1,5 @@
+// using stacks to reverse a word
+
 import java.util.Scanner;
 import java.util.Stack;
 
