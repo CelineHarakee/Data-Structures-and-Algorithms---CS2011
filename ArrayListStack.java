@@ -1,4 +1,5 @@
-// The purpose of this program is to reverse a string using the ArrayBasedList as a stack
+// 5
+// Use the ArrayBasedList class as a stack to reverse an input String.
 
 import java.util.*;
 

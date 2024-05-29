@@ -1,4 +1,5 @@
-//  The purpose of this program is to demonstrate the use of a stack in handling and reversing text files.
+// 2
+//  The purpose of this program is to demonstrate the use of a stack in handling text files.
 
 import java.io.FileNotFoundException;
 import java.util.*;
@@ -6,6 +7,7 @@ import java.io.File;
 
 
 public class DataHandlerStack {
+
     public String DataHandler (String fileName) throws FileNotFoundException {
             String originalData = "";
             String reversedData = "";
@@ -33,6 +35,7 @@ public class DataHandlerStack {
         public static void main(String[] args) {
             
         DataHandlerStack dh = new DataHandlerStack();
+        
         try{
             String data = dh.DataHandler("text.txt");
             System.out.println(data);
